@@ -29,6 +29,6 @@
 
 ## Repositories:
 
-[![DDos Network](https://github-readme-stats.vercel.app/api/pin/?username=MklMP&repo=DDos Network&theme=holi&layout=compact&bg_color=000000&title_color=9813b9&icon_color=9813b9&border_color=9813b9)](https://github.com/MklMP/DDos-Network.git)
+[![DDos Network](https://github-readme-stats.vercel.app/api/pin/?username=MklMP&repo=DDos-Network&theme=holi&layout=compact&bg_color=000000&title_color=9813b9&icon_color=9813b9&border_color=9813b9)](https://github.com/MklMP/DDos-Network.git)
 
-[![Center Pack-Tools](https://github-readme-stats.vercel.app/api/pin/?username=MklMP&repo=Center Pack-Tools&theme=midnight-purple)](https://github.com/MklMP/Center-PackTools.git)
+[![Center Pack-Tools](https://github-readme-stats.vercel.app/api/pin/?username=MklMP&repo=Center-PackTools&theme=midnight-purple)](https://github.com/MklMP/Center-PackTools.git)
